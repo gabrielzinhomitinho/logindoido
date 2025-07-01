@@ -4,4 +4,5 @@ body {
 }
 div{
     background-color: red;
+    position: absolute;
 }
